@@ -325,10 +325,6 @@ tr td .btn:hover{
 .login-div .page-2 button:hover{
   transform: scale(1.04);
 }
-
-
-
-
 @media (min-width:1600px)
 {
   .pageSection {

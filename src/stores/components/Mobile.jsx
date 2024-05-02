@@ -15,7 +15,7 @@ const Mobile = () => {
          <>
          <div className='cotentBox'>
          <div className='imgBox book'>
-            <img className='proimage' src={item.image} alt="" />
+            <img className='proimage' src={item.image} alt="proimage" />
           </div>
           <div>
             <h4>{item.model}</h4>
